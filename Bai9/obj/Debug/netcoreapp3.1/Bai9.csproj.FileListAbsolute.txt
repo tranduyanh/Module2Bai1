@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Module2\Bai9\bin\Debug\netcoreapp3.1\Bai9.exe
+C:\Users\ASUS\Desktop\Module2\Bai9\bin\Debug\netcoreapp3.1\Bai9.deps.json
+C:\Users\ASUS\Desktop\Module2\Bai9\bin\Debug\netcoreapp3.1\Bai9.runtimeconfig.json
+C:\Users\ASUS\Desktop\Module2\Bai9\bin\Debug\netcoreapp3.1\Bai9.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Module2\Bai9\bin\Debug\netcoreapp3.1\Bai9.dll
+C:\Users\ASUS\Desktop\Module2\Bai9\bin\Debug\netcoreapp3.1\Bai9.pdb
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.dll
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.pdb
+C:\Users\ASUS\Desktop\Module2\Bai9\obj\Debug\netcoreapp3.1\Bai9.genruntimeconfig.cache
